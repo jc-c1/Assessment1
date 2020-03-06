@@ -1,0 +1,76 @@
+#numIn, body {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+  }
+  
+  #numOut { 
+    font-size: 15vw;
+    margin: 50%;
+    
+    width: 4vw;
+    font-weight: 500;
+    }
+  
+  
+  
+  #operation {  
+    display: flex;
+    justify-content: center;
+    margin: auto 50%;
+    height: 14vw;
+  
+  }
+  
+  
+  #numIn{
+        margin: auto ;
+        width: 25vw;
+        font-size: 9vw;
+        padding: 1vh 5vw;
+        vertical-align: middle;
+        border-radius: 5%;
+        border: solid;
+        border-width: 0.5vh;
+        border-color: #A9A9A9;
+        }
+  
+        
+  
+  
+  #plus, #minus {
+    background: #A9A9A9;
+                  
+    border-color: #A9A9A9;
+    border: solid;
+    border-width: 0.5vh;
+    margin-left: 5vw ;
+    margin-right: 5vw;
+    width: 15vw;
+    padding: 1vh 5vw;
+    
+    
+  
+    color: white;
+    text-decoration: none;
+    border-radius: 20%;
+    font-size: 5vw;
+    
+    font-weight: 700;
+    
+               
+  }
+  #minus {
+    font-weight: 900;
+    padding-right: 6vw;
+    padding-left: 6vw;
+          }
+  
+  #plus:hover, #minus:hover {
+    background: white;
+    color:#A9A9A9;
+  }
+  
+   
+  
+  
+  
